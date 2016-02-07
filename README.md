@@ -1,4 +1,4 @@
-# for Arduino
+#USB host for Arduino
 
 A PCB for HobbyTronics' USB host board:  [http://www.hobbytronics.co.uk/usb-host-board-v2](http://www.hobbytronics.co.uk/usb-host-board-v2)
 
