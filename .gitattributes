@@ -1,1 +1,3 @@
 Manufacture/* linguist-vendored
+*.sch linguist-detectable=true
+*.brd linguist-detectable=true
